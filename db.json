@@ -1,0 +1,79 @@
+{
+  "movies": [
+    {
+      "id": "2",
+      "title": "Хресний батько",
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2
+    },
+    {
+      "id": "3",
+      "title": "Темний лицар",
+      "director": "Christopher Nolan",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "4",
+      "title": "Список Шиндлера",
+      "director": "Steven Spielberg",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.9
+    },
+    {
+      "id": "5",
+      "title": "Володар кілець: Повернення короля",
+      "director": "Peter Jackson",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.9
+    },
+    {
+      "id": "6",
+      "title": "Кримінальне чтиво",
+      "director": "Quentin Tarantino",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9
+    },
+    {
+      "id": "7",
+      "title": "Форрест Гамп",
+      "director": "Robert Zemeckis",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8
+    },
+    {
+      "id": "8",
+      "title": "Start",
+      "director": "Christopher Nolan",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.8
+    }
+  ]
+}
